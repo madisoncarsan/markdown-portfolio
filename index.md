@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[Markdown Portfolio](https://github.com/madisoncarsan/markdown-portfolio)
 
